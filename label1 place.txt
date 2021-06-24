@@ -1,0 +1,10 @@
+1.addtree（filecatelog）
+2.updateui（form1）
+
+
+task：
+1.打开文件夹的策略（search？）√
+2.文件内容的添加√
+3.删除文件、文件夹√
+4.格式化√
+5.目录树

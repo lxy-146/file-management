@@ -1,0 +1,13 @@
+D:\program(VS)\filemanager\bin\Debug\filemanager.exe.config
+D:\program(VS)\filemanager\bin\Debug\filemanager.exe
+D:\program(VS)\filemanager\bin\Debug\filemanager.pdb
+D:\program(VS)\filemanager\bin\Debug\MyControl.dll
+D:\program(VS)\filemanager\obj\Debug\filemanager.csprojAssemblyReference.cache
+D:\program(VS)\filemanager\obj\Debug\filemanager.Form1.resources
+D:\program(VS)\filemanager\obj\Debug\filemanager.Properties.Resources.resources
+D:\program(VS)\filemanager\obj\Debug\filemanager.csproj.GenerateResource.cache
+D:\program(VS)\filemanager\obj\Debug\filemanager.csproj.CoreCompileInputs.cache
+D:\program(VS)\filemanager\obj\Debug\filemanager.csproj.CopyComplete
+D:\program(VS)\filemanager\obj\Debug\filemanager.exe
+D:\program(VS)\filemanager\obj\Debug\filemanager.pdb
+D:\program(VS)\filemanager\obj\Debug\filemanager.content.resources

@@ -1,0 +1,15 @@
+1.FCB：
+filename
+changetime
+filesize int
+isfile  int（0文件，1文件夹，-2根目录）
+start int
+
+2.文件目录：
+1.rootname父节点
+2.filename文件名
+3.changetime修改日期
+4.filesize文件的大小
+5.isfile是否为文件夹
+6.start
+7.#
